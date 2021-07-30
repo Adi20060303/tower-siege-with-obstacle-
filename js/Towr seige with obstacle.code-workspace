@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "C32-TOWER-SIEGE-1-main",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
